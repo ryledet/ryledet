@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @ryledet, a student studying aerospace engineering. 
-- 👀 I’m interested in learning more about Github, Python, LaTeX and how to apply them in industry.
-- z I’m working on 
+- 👀 I’m interested in learning more about Github, Python, and LaTeX, improving my coding skills, and applying them to numerical methods.
+- I’m working on 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
